@@ -9,7 +9,7 @@ A Python-based **Turtle Crossing Game** built using the 🐢 Turtle graphics mod
 - 📊 **Scoreboard**: Tracks the player's level, displaying updates as they progress and showing a **Game Over** message upon collision.  
 - ⚙️ **Dynamic Difficulty**: Cars increase speed as the player advances to higher levels.  
 
-![image](https://github.com/user-attachments/assets/ae718002-89ee-4228-8644-9591d65a7e7e)
+![image](https://github.com/user-attachments/assets/5d5aefe9-1f40-4376-acb1-6a7a29250535)
 
 ![image](https://github.com/user-attachments/assets/ba8265c8-28a6-4eb3-87dd-cebb7943dc5a)
 
