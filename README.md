@@ -11,6 +11,4 @@ A Python-based **Turtle Crossing Game** built using the 🐢 Turtle graphics mod
 
 ![image](https://github.com/user-attachments/assets/5d5aefe9-1f40-4376-acb1-6a7a29250535)
 
-![image](https://github.com/user-attachments/assets/ba8265c8-28a6-4eb3-87dd-cebb7943dc5a)
-
 🎉The game employs modular design with `Player`, `CarManager`, and `Scoreboard` classes, smooth animations with `time.sleep()`, and collision detection for engaging gameplay.🏁 
